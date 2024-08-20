@@ -26,7 +26,6 @@ document.getElementById("FR-PDL").addEventListener("click",()=>{
 
 document.getElementById("btn").addEventListener("click",() =>{
     document.getElementById("people").classList.remove("inactive");
-    document.getElementById("presentation").classList.add("inactive");
 });
 
 

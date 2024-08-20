@@ -89,9 +89,10 @@ body{
 
 
 .title-map{
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: var(--vanilla);
     text-align: center;
+    margin-bottom: 2rem;
 }
 .map path:hover{
     fill: var(--amber);
