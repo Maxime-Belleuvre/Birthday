@@ -10,6 +10,7 @@
 
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body,
@@ -188,3 +189,7 @@ body{
 .inactive{
     display: none;
 }
+
+
+
+    
