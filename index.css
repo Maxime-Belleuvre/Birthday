@@ -107,6 +107,7 @@ body{
 }
 
 .sub-title{
+    text-align: center;
     color: var(--vanilla);
     font-size: 1.5rem;
 }
