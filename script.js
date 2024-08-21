@@ -41,15 +41,3 @@ document.getElementById("people3").addEventListener("click",() =>{
     document.getElementById("people3Hide").classList.add("inactive")
     document.getElementById("who3").classList.add("inactive")
 });
-document.getElementById("people4").addEventListener("click",() =>{
-    document.getElementById("people4Hide").classList.add("inactive")
-    document.getElementById("who4").classList.add("inactive")
-});
-document.getElementById("people5").addEventListener("click",() =>{
-    document.getElementById("people5Hide").classList.add("inactive")
-    document.getElementById("who5").classList.add("inactive")
-});
-document.getElementById("people6").addEventListener("click",() =>{
-    document.getElementById("people6Hide").classList.add("inactive")
-    document.getElementById("who6").classList.add("inactive")
-});
